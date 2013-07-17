@@ -1,5 +1,5 @@
 {
-    "name": "wso2/wso2",
+    "name": "Wso2/wsf",
     "type": "library",
     "description": "PHP/WSF Native Soap Replacement Extension.",
     "keywords": ["Soap"],
@@ -12,11 +12,12 @@
         },
     ],
     "require": {
-        "php": ">=5.3.*"
+        "php": ">=5.3.*",
+        "ext-wsf": "*"
     },
     "autoload": {
         "psr-0" : {
-            "Wso2" : "src/"
+            "Wsf" : "src/"
         }
     }
 } 

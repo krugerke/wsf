@@ -11,15 +11,14 @@
             "email": "krugerke@gmail.com"
         }
     ],
-            
     "require": {
         "php": ">=5.3",
         "ext-wsf": "*"
     },
     "autoload": {
         "psr-0" : {
-            "Wsf" : "src/"
+            "wsf" : "src/"
         }
     }
-} 
+}
 

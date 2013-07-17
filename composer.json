@@ -1,5 +1,5 @@
 {
-    "name": "Wso2/wsf",
+    "name": "wso2/wsf",
     "type": "library",
     "description": "PHP/WSF Native Soap Replacement Extension.",
     "keywords": ["Soap"],
